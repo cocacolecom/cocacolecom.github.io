@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "fhgdfdfgdff.web.app",
+  "Id": "8fa9d471-e63f-41a1-b765-23ac6cb91e61"
+}
